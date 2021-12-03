@@ -1,5 +1,5 @@
 # Product-Management-APIs
-# Product Management APIs ( Using MONGODB)
+# Product Management APIs ( Using MongoDB)
 
 # SCHEMA:
 
