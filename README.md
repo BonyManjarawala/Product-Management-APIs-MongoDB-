@@ -28,7 +28,7 @@ SELLER
 * product ids : Array of String
 
 
-# POST REQUESTS:
+# GET, POST, PUT, DELETE REQUESTS:
 
 ADD
 
@@ -58,4 +58,4 @@ DELETE
 # Screenshot
 <a id="user-content-Screenshots" class="anchor" aria-hidden="true" href="#Screenshots"></a>
 
-<a href="https://github.com/BonyManjarawala/Product-Management-APIs/tree/main/ProductManagementAPIS(Express)/Postman"> Click Here</a>
+<a href="https://github.com/BonyManjarawala/Product-Management-APIs-MongoDB/tree/main/ProductMangementAPIs(MongoDB)/Postman"> Click Here</a>
